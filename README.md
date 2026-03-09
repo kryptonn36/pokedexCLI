@@ -1,6 +1,7 @@
 # Pokedex CLI
 
 A small REPL-style Pokedex client that talks to the public PokeAPI and keeps a short-lived cache to reduce repeat requests.
+You can catch the pokemon and keep it in your pocket.
 
 ## Features
 
